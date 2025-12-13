@@ -1,0 +1,18 @@
+.container {
+  box-sizing: border-box;
+  width: 400px;
+  height: 400px;
+  outline-width: 2px;
+  outline-style: solid;
+  outline-color: black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.square {
+  width: 25px;
+  height: 25px;
+  outline-width: 1px;
+  outline-style: solid;
+  outline-color: black;
+}
