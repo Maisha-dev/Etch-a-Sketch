@@ -16,3 +16,7 @@
   outline-style: solid;
   outline-color: black;
 }
+
+.square.hoverved {
+  background-color: pink;
+}
